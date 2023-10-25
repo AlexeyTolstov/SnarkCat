@@ -1,0 +1,5 @@
+train: D:/Yolov8 Model/Dataset/Train
+val: D:/Yolov8 Model/Dataset/Valid
+
+nc: 1
+names: ["Snark Cat"]
